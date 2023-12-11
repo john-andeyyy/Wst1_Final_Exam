@@ -306,7 +306,7 @@ input[type="submit"] {
     height: 50px;
     width: 186px;
     border-radius: 20px;
-    margin-left: 50%;
+    margin-left: 60%;
 }
 
 input[type="submit"]:hover {
